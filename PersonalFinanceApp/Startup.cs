@@ -15,6 +15,7 @@ namespace PersonalFinanceApp
     {
         public Startup(IConfiguration configuration)
         {
+            //commentarisanje
             Configuration = configuration;
         }
 
